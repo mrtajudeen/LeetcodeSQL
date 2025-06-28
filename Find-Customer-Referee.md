@@ -1,4 +1,4 @@
-# 584. Find Customer Referee
+# [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/)
 
 Solution:
 ```sql
